@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127145215983",
+    "firebase_url": "https://volunteers-needed.firebaseio.com",
+    "project_id": "volunteers-needed",
+    "storage_bucket": "volunteers-needed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127145215983:android:f3bd8fe131656763",
+        "android_client_info": {
+          "package_name": "g.pavi.volunteersneeded"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127145215983-0pnvgrpvga62176f9ld9qjgeb276vaj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g.pavi.volunteersneeded",
+            "certificate_hash": "f84479d9b8c62a3aaf0742c4e8ec5e5df8b2810b"
+          }
+        },
+        {
+          "client_id": "127145215983-12g0pdeg0gp1agnv8bjth0s47kg45hqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZbz6QBVmUgIWlhEq3Rh3sfRUCk5ft8ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127145215983-12g0pdeg0gp1agnv8bjth0s47kg45hqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
